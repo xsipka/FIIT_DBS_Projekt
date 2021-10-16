@@ -1,0 +1,16 @@
+.parentLight{
+	-fx-background-color: #343278;
+}
+
+.parentDark{
+	-fx-background-color: #29284f;
+}
+
+.textButton{
+	-fx-background-color: #343278;
+	-fx-text-fill:white;
+}
+
+.textButton:hover{     
+  -fx-text-fill:black;
+}
